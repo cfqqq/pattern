@@ -31,7 +31,7 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
-  <component name="IdProvider" IDEtalkID="BFC40AD1BA2F00E4BF3A7B239B14DAD6" />
+  <component name="IdProvider" IDEtalkID="4E08F6233DA6AD7FABC9E9533384A3EB" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -156,5 +156,21 @@
       <method />
     </configuration>
     <list size="0" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
